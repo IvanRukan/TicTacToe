@@ -1,2 +1,2 @@
 # TicTacToe
-Simple TicaTacToe.
+Simple TicTacToe.
